@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/{{ docs_version }}/ref/settings/
 """
 
 import os
+
 import {{ project_name }} as project_module
 
 SITE_NAME = '{{ project_name }}'
