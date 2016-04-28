@@ -1,1 +1,14 @@
-django==1.9
+django
+django-crispy-forms
+querystring-parser
+
+django-tastypie
+django-tastypie-crust
+
+django-storages
+
+isort
+flake8
+flake8-print
+pep8-naming
+isort
